@@ -26,7 +26,7 @@ function App() {
             </Router>
           </div>
           <div className="footer">
-              <a href="/" className="txt">Copyright {year}. Biteville Technologies</a>
+              <a href="/" className="txt">Copyright {year}. Bitville Technologies</a>
           </div>
         </div>
     );
