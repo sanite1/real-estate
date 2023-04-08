@@ -61,11 +61,13 @@ nav h1 span{
 
 .p-wrapper h1 {
   padding-bottom: 10px;
-  border-bottom: 4px solid #1FABE9;
+  /* border-bottom: 4px solid #1FABE9; */
+  margin-top: 20px;
   width: fit-content;
   margin: auto;
-  margin-bottom: 50px;
-  color: #1FABE9;
+  text-align: start;
+  margin-bottom: 30px;
+  color: #000000;
 }
 
 .cards-wrapper {
